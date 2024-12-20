@@ -1,0 +1,72 @@
+name: abhariyah
+description: Aplikasi pondok pesantren NU Abhariyah.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.0.20
+  animate_do: ^2.1.0
+  http: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.2
+  carousel_slider: ^4.2.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/ab.png
+    - assets/images/h.jpg
+    - assets/images/keluarga besar.jpg
+    - assets/images/potbar.jpg
+    - assets/images/poto bersama.jpg
+    - assets/images/upacara hari santri.jpg
+    - assets/images/hadrah.jpg
+    - assets/images/ketua.jpg
+    - assets/images/laelatu.jpg
+    - assets/images/makam sunan ampel.jpg
+    - assets/images/nasihat.jpg
+    - assets/images/ziarah makam.jpg
+    - assets/images/osis.jpg
+    - assets/images/pelantikan.jpg
+    - assets/images/rapat ustadz.jpg
+    - assets/images/tanda tangan.jpg
+    - assets/images/wisuda.jpg
+    - assets/images/a.jpg
+    - assets/images/b.jpg
+    - assets/images/c.jpeg
+    - assets/images/d.png
+    - assets/images/e.jpg
+    - assets/images/f.jpg
+    - assets/images/g.jpg
+    - assets/images/h.jpg
+    - assets/images/i.jpg
+    - assets/images/j.jpg
+    - assets/images/4.png
+    - assets/images/ha.jpg
+    - assets/images/pq.jpg
+    - assets/images/mj.jpg
+    - assets/images/kf.jpeg
+    - assets/images/irs.jpeg
+    - assets/images/abhj.jpg
+    - assets/images/abah.jpg
+    - assets/images/tk.jpg
+    - assets/images/smp.jpg
+    - assets/images/sma.jpg
+    - assets/images/smk.jpg
+    - assets/images/aku.png
+    - assets/images/gur.jpg
+    - assets/images/gur2.jpg
+    - assets/pdf/asmaulhusna.pdf
+fonts:
+  - family: Arabic
+    fonts:
+      - asset: assets/fonts/arabic_font.ttf
+      - asset: fonts/amiri-regular.ttf
